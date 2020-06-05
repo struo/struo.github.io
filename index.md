@@ -1,15 +1,7 @@
 # Welcome to Steven Truong's GitHub Page
 
-```markdown
 ## Objectives
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+My goal is to update this page as frequently as possible ...
 
 Please feel free to check out my [Linkedin](https://www.linkedin.com/in/steven-truong-52769917a/) and [Cydia](https://arvensis.github.io/cydia/) page.
 
